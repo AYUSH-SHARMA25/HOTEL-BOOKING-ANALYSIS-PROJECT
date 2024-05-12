@@ -8,6 +8,9 @@ Have you ever wondered when the best time of year to book a hotel room is? Or th
 
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has been removed from the data.
 
+You can access the dataset from this link -: https://drive.google.com/file/d/1rUI-LEqwKhJU7WpBoA6H_QvgX_fzjSgb/view?usp=sharing
+
+
 # Some Insights From The Datasets
 
 
